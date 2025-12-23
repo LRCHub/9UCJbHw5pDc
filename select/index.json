@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "瞳にめざめて",
+  "base_artist": "My Hair Is Bad",
+  "createdAt": "2025-12-23T23:30:10.425737Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "瞳にめざめて",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/pl_01_瞳にめざめて_My_Hair_is_Bad.txt"
+    }
+  ]
+}
